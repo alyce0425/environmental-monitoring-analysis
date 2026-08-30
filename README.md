@@ -22,9 +22,9 @@ The dataset is entirely simulated and does not contain proprietary or confidenti
 
 ## Key Findings
 
-- ISO8 rooms showed higher microbial counts overall than ISO7 rooms, with ISO8-A having the highest average Air CFU and Surface CFU.**
-- Humidity showed a strong positive correlation with Air CFU (r ≈ 0.89), indicating that higher humidity values were associated with higher airborne microbial counts in this simulated dataset.**
-- Temperature showed a strong positive correlation with Surface CFU (r ≈ 0.92), indicating that higher temperatures were associated with higher surface microbial counts in this simulated dataset.**
+- ISO8 rooms showed higher microbial counts overall than ISO7 rooms, with ISO8-A having the highest average Air CFU and Surface CFU.
+- Humidity showed a strong positive correlation with Air CFU (r ≈ 0.89), indicating that higher humidity values were associated with higher airborne microbial counts in this simulated dataset.
+- Temperature showed a strong positive correlation with Surface CFU (r ≈ 0.92), indicating that higher temperatures were associated with higher surface microbial counts in this simulated dataset.
 
 ## Visualizations
 
